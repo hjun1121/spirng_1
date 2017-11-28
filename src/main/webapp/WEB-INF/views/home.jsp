@@ -14,5 +14,6 @@
 
 <a href="./notice/noticeList?name=notice">Go Notice</a><br>
 <a href="./qna/qnaList">Go qna</a>
+<h3>Master</h3>
 </body>
 </html>
