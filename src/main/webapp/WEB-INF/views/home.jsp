@@ -9,10 +9,5 @@
 <h1>
 	Hello world! Springgg
 </h1>
-<img src="./etc/images/p.jpg">
-<P>  The time on the server is ${serverTime}. </P>
-
-<a href="./notice/noticeList?name=notice">Go Notice</a><br>
-<a href="./qna/qnaList">Go qna</a>
 </body>
 </html>
